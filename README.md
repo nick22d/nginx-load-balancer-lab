@@ -1,0 +1,1 @@
+# A basic lab consisting of an nginx load balancer and two nginx web servers. 
